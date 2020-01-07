@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>  Grocery Store </title>
+</head>
+
+<body>
+  <div id = header >
+
+    <select id = department>Shop by Department</select>
+  </div>
+
+  <div id = content>
+  </div>
+
+  
+
+
+</body>
+
+</html>
