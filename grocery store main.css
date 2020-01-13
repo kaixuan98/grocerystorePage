@@ -1,9 +1,17 @@
-.department{
+#header{
+  text-align: center;
+  background-color: lightBlue;
+}
+.dropdownbtn{
   background-color: DodgerBlue;
   color:white;
   font-size: 16px;
   border:none;
   cursor: pointer;
+}
+.dropdown {
+  position :relative;
+  display:inline-block;
 }
 .dropdown-content{
   display:none;
@@ -14,6 +22,20 @@
   z-index: 1;
 
 }
+.dropdown-content a {
+  color:black;
+  padding 12px 16px;
+  text-decoration: none;
+  display: block;
+}
 .dropdown-content a:hover{
-  background-color :#0074e4
+  background-color :#ddd
+}
+
+.dropdown: hover .dropdown-content{
+  display:block
+}
+
+.dropdown: hover .dropdownbtn{
+  background-color: #0074e4
 }
