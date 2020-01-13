@@ -1,11 +1,42 @@
+
 #header{
   text-align: center;
   background-color: lightBlue;
+  font-size: 36px;
+
+}
+#promotion{
+  text-align: left;
+  font-size: 20px;
+}
+#Vege{
+  text-align: left;
+  font-size: 20px;
+}
+#snack{
+  text-align: left;
+  font-size: 20px;
+}
+.word{
+  font-size: 20px;
+}
+table {
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px
+}
+.more {
+  color:black;
+  background-color: white;
+  font-size: 16px;
+  border: none;
+  float: right;
+  cursor: pointer;
 }
 .dropdownbtn{
   background-color: DodgerBlue;
   color:white;
-  font-size: 16px;
+  font-size: 30px;
   border:none;
   cursor: pointer;
 }
