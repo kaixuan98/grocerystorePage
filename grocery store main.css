@@ -24,7 +24,7 @@ table {
   text-align: center;
   padding-left: 200px;
   padding-right: 200px;
-  
+
 }
 .more {
   color:black;
@@ -56,18 +56,18 @@ table {
 }
 .dropdown-content a {
   color:black;
-  padding 12px 16px;
-  text-decoration: none;
-  display: block;
+  padding:12px 16px;
+  text-decoration:none;
+  display:block;
 }
 .dropdown-content a:hover{
-  background-color :#ddd
+  background-color :#ddd;
 }
 
-.dropdown: hover .dropdown-content{
-  display:block
+.dropdown:hover .dropdown-content{
+  display:block;
 }
 
-.dropdown: hover .dropdownbtn{
-  background-color: #0074e4
+.dropdown:hover .dropdownbtn{
+  background-color: #0074e4;
 }
